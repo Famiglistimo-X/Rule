@@ -1,4 +1,9 @@
 # NAME: Bybit
+# AUTHOR: Famiglistimo-X
+# REPO: https://github.com/Famiglistimo-X/Rule
+# UPDATED: 2025-04-03 17:35
+# DOMAIN-SUFFIX: 12
+# TOTAL: 17
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,bybit.com
