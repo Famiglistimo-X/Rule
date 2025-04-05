@@ -15,4 +15,4 @@
 Sub_info = script-name=Sub_info,update-interval=3600
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=encode后的机场节点链接&reset_day=20&title=你机场名字&icon=hare.fill=#FFB6C1
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Famiglistimo-X/Rule/refs/heads/main/Surge/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=encode后的机场节点链接&reset_day=20&title=你机场名字&icon=hare.fill=#FFB6C1
